@@ -1,2 +1,2 @@
-# Learning-Path-Intermediate-UX-Design-Examples
-Links to example code downloads for Learning Path: Intermediate UX Design Examples
+# Learning-Path-User-Research-Fundamentals-Examples
+Links to example code downloads for Learning Path: User Research Fundamentals
